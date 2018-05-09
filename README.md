@@ -1,0 +1,1 @@
+# veri-bilimi-icin-pandas-egitimleri
